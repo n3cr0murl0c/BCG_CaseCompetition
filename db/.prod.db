@@ -1,0 +1,3 @@
+POSTGRES_USER=bcg_user
+POSTGRES_PASSWORD=case_competition_123
+POSTGRES_DB=case_competition_db
