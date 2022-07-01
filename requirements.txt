@@ -1,0 +1,6 @@
+apache-superset
+pandas
+sklearn
+scipy
+matplotlib
+plotly
